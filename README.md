@@ -43,7 +43,7 @@ console.log("Olá, mundo!");
 **3\. Conectando ao HTML**
 
 Você pode conectar seu arquivo JavaScript a uma página HTML usando a tag **&lt;script&gt;** dentro do **&lt;head&gt;** ou **&lt;body&gt;** do documento HTML:
-
+<span style="color:red">Este texto es rojo</span>
 &lt;!DOCTYPE html&gt;
 
 &lt;html&gt;
