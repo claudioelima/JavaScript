@@ -52,7 +52,7 @@ Você pode conectar seu arquivo JavaScript a uma página HTML usando a tag **&lt
 &lt;head&gt;
 
 &lt;title&gt;Meu Site&lt;/title&gt;
-
+<font color="red">script.js</font>
 &lt;script src="script.js"&gt;&lt;/script&gt;
 
 &lt;/head&gt;
