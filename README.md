@@ -44,7 +44,6 @@ console.log("Olá, mundo!");
 
 Você pode conectar seu arquivo JavaScript a uma página HTML usando a tag **&lt;script&gt;** dentro do **&lt;head&gt;** ou **&lt;body&gt;** do documento HTML:
 
-<!DOCTYPE html> <html> <head> <title><span style="color:green">Meu Site</span></title> <script src="script.js"></script> </head> <body> <span style="color:green"> <!-- Conteúdo da página --> </span> </body> </html> Explico:
 
 &lt;!DOCTYPE html&gt;
 
